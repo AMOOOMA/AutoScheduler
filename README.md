@@ -1,2 +1,2 @@
 # AutoScheduler
-## on-going project (uncompleted code)
+on-going project (uncompleted code)
